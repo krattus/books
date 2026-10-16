@@ -155,7 +155,7 @@ def head(lang, title, desc, url, img, locale, extra=""):
 <title>{e(title)}</title>
 <meta name="description" content="{e(desc)}">
 <link rel="canonical" href="{url}">
-<meta property="og:type" content="book"><meta property="og:site_name" content="krattus.com">
+<meta property="og:type" content="website"><meta property="og:site_name" content="krattus.com">
 <meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}">
 <meta property="og:url" content="{url}"><meta property="og:locale" content="{locale}">
 <meta property="og:image" content="{img}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
